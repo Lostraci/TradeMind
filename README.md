@@ -2,6 +2,17 @@
 
 TradeMind AI is an advanced, agentic AI system designed to analyze stock markets using a multi-agent architecture. It combines Technical, Fundamental, Sentiment, and Quantitative analysis to provide comprehensive investment reports and trade signals.
 
+## 📸 Screenshots
+
+### 📊 Interactive Dashboard
+![Dashboard](assets/dashboard.png)
+
+### 📝 Detailed Analysis Report
+![Analysis](assets/analysis.png)
+
+### 📈 Technical Graphs
+![Graph](assets/graph.png)
+
 ## 🚀 Features
 
 - **Multi-Agent Architecture**:
